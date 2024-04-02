@@ -1,8 +1,18 @@
+* {
+    width: 20dvb;
+}
+
 h1 {
     margin: 10;
     padding: 20;
 }
 
-body {
-    border: 2;
+div {
+    color: aqua;
+    border-radius: 20;
+}
+
+head {
+    display: block;
+    color: #b62323;
 }
