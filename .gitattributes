@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# how this file helps while runing different program at a time
+# or commiting new terms in program
