@@ -1,18 +1,26 @@
-* {
-    width: 20dvb;
-}
-
 h1 {
+    align-items: center;
     margin: 10;
     padding: 20;
-}
-
-div {
-    color: aqua;
-    border-radius: 20;
+    color: blue;
 }
 
 head {
     display: block;
     color: #b62323;
+}
+
+body {
+    color: #b62323;
+}
+
+p {
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
 }
